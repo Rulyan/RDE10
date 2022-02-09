@@ -1,19 +1,23 @@
 body{
-    background-color: lightgray;
-    font-family:'Courier New', Courier, monospace
+    background-color: rgb(245, 245, 245);
+    font-family:Arial, Helvetica, sans-serif
 }
 h1{
-    background-color:lightslategray;
-    color:lightgray;
+    background-color:
+    rgb(48, 227, 202);
+    color:rgb(64, 81, 78);
     text-align: center;
-    font: size 28px;
+    font: size 30px;
 }
 h2{
-    color:darkslategray;
+    color:  rgb(47, 137, 252);
 }
 h3{
-    color:slategray;
+    color:rgb(64, 81, 78);
+}
+p{
+    color:rgb(64, 81, 78);
 }
 ul{
-    color:dimgray;
+    color:rgb(64, 81, 78);
 }
